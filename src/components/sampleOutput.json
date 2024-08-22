@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "China's rhetoric turns dangerously real for Taiwanese",
+      "description": "China wants people to report Taiwanese \"separatists\", with the threat of death penalties for some.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8dy437pdno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b9f4/live/251dd290-5afa-11ef-b2c9-3d1651ca0c26.jpg",
+      "publishedAt": "2024-08-16T11:37:14.8966797Z",
+      "content": "By the end of that decade in 2009 - more than 400,000 Taiwanese lived in China. By 2022, that number had plummeted to 177,000, according to official figures from Taiwan.\r\nChina had changed, says Ms C… [+1698 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Lost wreck of WW1 ship HMS Hawke found in 'remarkable' condition",
+      "description": "HMS Hawke was torpedoed by a German u-boat on 15 October 1914 and has lain undiscovered on the seabed.",
+      "url": "https://www.bbc.co.uk/news/articles/c9qg4z1149eo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/de28/live/a476d0f0-5b31-11ef-b1b4-cdfdd7474852.jpg",
+      "publishedAt": "2024-08-16T11:22:13.380219Z",
+      "content": "On 15 October 1914, the squadron was on patrol off the coast of Aberdeen when HMS Hawke was struck by a single torpedo from German submarine U-9 \r\nThis major attack in the early stages of the war was… [+903 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Thai parliament picks Thaksin's daughter Paetongtarn as new PM",
+      "description": "At 37, she will be the country's youngest PM and the second woman in the post, after her aunt Yingluck.",
+      "url": "https://www.bbc.co.uk/news/articles/cd6yj26vz8yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/310a/live/18145a60-5b90-11ef-83d3-bbae2d96af57.jpg",
+      "publishedAt": "2024-08-16T11:07:14.1470154Z",
+      "content": "I really hope that I can make people feel confident that we can build opportunities and to improve the qualify of life and to empower all Thais, Ms Paetongtarn told reporters after the vote on Friday… [+2013 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "How would Trump’s promise of mass deportations of migrants work?",
+      "description": "The mass deportation of undocumented immigrants would face legal and practical challenges - and cost billions.",
+      "url": "https://www.bbc.co.uk/news/articles/ce9z0lm48ngo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ec72/live/d0708500-5b24-11ef-997c-711b7066309d.jpg",
+      "publishedAt": "2024-08-16T10:37:23.2088901Z",
+      "content": "If a US administration was able to legally move ahead with plans for mass deportations, authorities would still have to contend with enormous logistical challenges. \r\nDuring the Biden administration,… [+3220 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Eras Tour: Ed Sheeran joins Taylor Swift for Wembley show",
+      "description": "Swift closes the European leg of her tour with five record-breaking performances at Wembley Stadium.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyw74p8ejeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6758/live/c8846590-5b61-11ef-997c-711b7066309d.jpg",
+      "publishedAt": "2024-08-16T10:37:20.3346042Z",
+      "content": "With a runtime of more than three hours, there's not much time for rambling ad libs on the setlist and apart from this, Swift's interactions with the audience stayed on script.\r\nSwift thanked the cro… [+1001 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Backlash after Filipino MP says husbands have 'sexual rights'",
+      "description": "Robin Padilla made the remarks during a senate probe into sexual harrassment in the media industry.",
+      "url": "https://www.bbc.co.uk/news/articles/czdp302y9l7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ea72/live/34e16bc0-5ba3-11ef-9fac-8522b8016c23.jpg",
+      "publishedAt": "2024-08-16T10:07:16.8050067Z",
+      "content": "Mr Padilla, who is leading a Senate probe into complaints of sexual harrassments and abuse in the media industry, made the comments in a hearing on Thursday.\r\nSpeaking to Ms Kapunan, he asks if a hus… [+1848 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Paetongtarn Shinawatra: Thai heiress brings back divisive dynasty. But for how long?",
+      "description": "Ms Paetongtarn brings a fresh face, and yet another member of the powerful Shinawatra clan to the top job.",
+      "url": "https://www.bbc.co.uk/news/articles/cg79259ln81o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/367d/live/923c1b90-5bac-11ef-9fac-8522b8016c23.jpg",
+      "publishedAt": "2024-08-16T09:22:16.8966989Z",
+      "content": "Paetongtarn Shinawatra brings a fresh, young face, and yet another member of the powerful Shinawatra clan, to the countrys top job. \r\nShe is the daughter of Thaksin Shinawatra, the deposed former PM … [+1439 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "'We are no longer debating facts', says Harry in Colombia",
+      "description": "The Duke and Duchess of Sussex are visiting Colombia following an invitation from the vice-president.",
+      "url": "https://www.bbc.co.uk/news/articles/ce31qld552lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3e30/live/f7d812e0-5b7c-11ef-b2d2-cdb23d5d7c5b.jpg",
+      "publishedAt": "2024-08-16T06:52:14.3810506Z",
+      "content": "The Sussexes, who have faced their own attacks on social media, have not confirmed who is funding the trip - which is neither a state visit nor an official royal event. \r\nBut they are being given a f… [+1282 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "A different kind of Trump goes on display",
+      "description": "While still saying he is \"entitled to personal attacks\", Donald Trump seeks to shift his campaign focus to policy.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg3pp79wjxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a907/live/d587cd90-5b6b-11ef-8f0f-0577398c3339.jpg",
+      "publishedAt": "2024-08-16T03:22:13.5528445Z",
+      "content": "The pork sausage was a sign that this was going to be different. Or at least, that it was meant to be.\r\nLike a grocery store employee in front of a concession stand, Donald Trump stood framed by the … [+2414 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Matthew Perry death investigation: An underground drug network",
+      "description": "A year-long investigation uncovered a vast ketamine dealing network, cover up attempts, another death, and led to five arrests - including doctors and a dealer who was known locally as \"The Ketamine Queen\".",
+      "url": "https://www.bbc.co.uk/news/articles/c89wgv98925o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/881d/live/b61b77e0-5b66-11ef-8f0f-0577398c3339.jpg",
+      "publishedAt": "2024-08-16T01:22:12.5368382Z",
+      "content": "When 'Friends' actor Matthew Perry was found dead in a hot tub at his Los Angeles home last year, it seemed like it could have just been an accident. \r\nHe'd been treating his depression with ketamine… [+1580 chars]"
+    }
+  ]
+}
